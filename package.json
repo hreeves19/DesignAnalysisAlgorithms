@@ -1,0 +1,19 @@
+{
+  "name": "designanalysisalgorithms",
+  "version": "1.0.0",
+  "description": "For my design and analysis class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hreeves19/DesignAnalysisAlgorithms.git"
+  },
+  "author": "Court Reeves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hreeves19/DesignAnalysisAlgorithms/issues"
+  },
+  "homepage": "https://github.com/hreeves19/DesignAnalysisAlgorithms#readme"
+}
