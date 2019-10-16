@@ -1,6 +1,12 @@
+// Importing libraries
 const Activity = require('./Activity.js');
+const MergeSort = require('./MergeSort');
+const ActivitySelection = require('./ActivitySelection');
 
-let act = new Activity(1, 2);
+// Sorting algorithm to use: https://www.geeksforgeeks.org/merge-sort/ merge sort
 
-console.log(act);
-console.log(act.getActivity());
+function main() {
+
+}
+
+main();

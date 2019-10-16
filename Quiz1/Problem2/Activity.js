@@ -8,6 +8,10 @@ class Activity {
     getActivity() {
         return {startTime: this.startTime, endTime: this.endTime};
     }
+
+    getTimeToCompleteEvent() {
+        return this.endTime - this.startTime;
+    }
 };
 
 module.exports = Activity;
