@@ -1,12 +1,13 @@
 class Activity {
 
-    constructor(startTime, endTime) {
+    constructor(startTime, endTime, value) {
         this.startTime = startTime;
         this.endTime = endTime;
+        this.value = value;
     }
 
     getActivity() {
-        return {startTime: this.startTime, endTime: this.endTime};
+        return {startTime: this.startTime, endTime: this.endTime, value: this.value};
     }
 
     getTimeToCompleteEvent() {

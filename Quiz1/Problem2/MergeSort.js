@@ -7,7 +7,9 @@ class MergeSort {
     }
 
     mergeSort(left, right) {
-
+        if (left < right) {
+            
+        }
     }
 }
 
