@@ -1,11 +1,12 @@
 let input1 = [
-    [3, 4, 2]
+    [1, 2],
+    [-2, 5],
+    [-5, 6]
 ];
 
 let input2 = [
-    [13, 9, 7, 15],
-    [8, 7, 4, 6],
-    [6, 4, 0, 3]
+    [3],
+    [2]
 ];
 
 console.log(multipleMatrices(input1, input2));
